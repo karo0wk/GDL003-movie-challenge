@@ -1,63 +1,62 @@
 # Movie Challenge
 
-## Índice
+## Study Ghibli
+![](https://i.blogs.es/305eed/ghiblii/450_1000.jpg)
 
-- [Preámbulo](#preámbulo)
-- [Resumen del proyecto](#resumen-del-proyecto)
-- [Consideraciones generales](#consideraciones-generales)
-- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-- [Avances necesarios](#avances-necesarios)
-- [Consideraciones técnicas](#consideraciones-técnicas)
 
----
+#### Funcionalidad
+Esta Web App visualizará  los valores de las películas a primera instancia y proporcionará  imágenes videos, año y reseña de las películas de Studio Ghibli .
 
-## Preámbulo
 
-Con la aparición de plataformas para ver películas en la nube, como Netflix,
-Amazon Prime Video o HBO, ver películas desde donde estés, comiendo lo que quieras
-(sin tener que pagar precios ridículos por palomitas), parando si es necesario, teniendo acceso a una cantidad
-abrumadora de películas, etc. ha cambiado la experiencia del usuario
-y modificado el mercado de las películas a nivel global.
+#### Ejecución de la aplicación
+Esta aplicación no necesita descarga por lo que es una Web App, sólo necesita desplegar el menú de opciones visualizadas de películas y dar click en la  imagen de la película que contenga el valor ético qué del que se habla en la película.
 
-![Pelis](https://i.giphy.com/media/3o6Ztl7RvfwCp9mqhW/source.gif)
 
-## Resumen del proyecto
+#### Proceso hecho para definir el producto final a nivel de experiencia y a nivel de interfaz
 
-Durante estos días crearás el producto que quieras alrededor del mundo
-de las películas. Puede ser un sitio que hable de las mejores películas
-latinoamericanas, uno que recomiende las películas recién estrenadas en algún servicio de streaming, uno de recomendaciones de películas de terror,
-comedia ... o... ¡lo que quieran!
+Por medio de una encuesta que nos permitió conocer al usuario y sus intereses.
+Y por medio de la investigación que permitió saber el publico de Studio Ghibli (personas entre veinte y treinta años)
+[[Encuesta]][Enc]
 
-## Consideraciones generales
+#### Principales usuarios de producto
+- Personas entre 20 y 30 años mayor mente dedicadas a la docencia de educación secundaria. De educación media superior. Nivel socio-económico medio alto.
 
-- Este proyecto se debe resolver en equipos.
-- Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
-- Tiempo para completar el reto: 3 días.
-- Habrán dos presentaciones, una a la mitad de la _reto_ y otra al final.
+- Adolescentes entre 12 y 15 años, estudiantes de secundaria que buscan el desarrollo de habilidades psico - sociales
 
-## Objetivos de aprendizaje
+#### Objetivos de estos usuarios en relación con tu producto
+Los usuarios tienen el objetivo de encontrar una película de Studios Ghibli que represente un valor ético.
 
-- Enfrentarte a un reto de corta duración en el que pongas
-  en práctica todo lo aprendido hasta ahora.
-  
-- Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
-  personas en un equipo de trabajo, mayor complejidad para: tener un
-  entendimiento común, seguir el flujo de trabajo, buscar consensos, etc.
+#### Resolución de problema
+Hoy en día, al existir tantas opciones a la hora de elegir un medio de entretenimiento, los usuarios necesitan pistas más viables que les ayuden a elegirlos. Esta página pretende facilitar ese proceso.
 
-## Avances necesarios
+#### Historia de usuario
+1. El cliente: Estudios Ghibli, quiere un catálogo de sus películas para dar a conocer mis películas en conjunto con los valores que representan.
 
-- Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-  por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
-  y las inspiraciones utilizadas para definir el producto.
-- Además, deberás detallar en el archivo _readme_, qué hizo cada integrante del
-  proyecto.
-- El producto deberá presentarse publicado en github pages.
+2. Yo Maestro(a) de nivel secundaria, quiero encontrar películas del autor Hayao Miyazaki para poder mostrarlas y/o reacomendarlas a mi alumnos.
 
-## Consideraciones técnicas
+3. Yo estudiante de secundaria, quiero poder encontrar las películas recomendadas por mis profesores que puedan ayudar con mi desarrollo.
 
-- El diseño visual de los componentes es de libre elección.
-- Pueden usar algún framework de css si así lo deciden.
+#### Decisiones de diseño
 
-## Sobre las presentaciones
+Interfaz descriptiva de los objetivos de la web app, con una visualización clara de las películas y su contenido dirigido a valores.
 
-- Cada squad tendrá 3 minutos para presentar y 2 minutos para recibir preguntas.
+
+#### Prototipo de baja fidelidad
+Se propone una división de pantalla en la que del lado izquierdo se puede ver la descripción a cerca de los estudios Ghibli de bajo de una imagen que lo representa.
+
+Del lado derecho de la pantalla muestra un menú con las imágenes de las películas que contienen las descripción de los valores éticos que se presentan en cada película
+
+Vista 1
+![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/p1.jpeg)
+
+La segunda vista mantiene el lado izquierdo con la descripción, y el lado derecho se representa la reseña de la película a la cual fue dado el "click".
+Vista 2
+![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/p2.jpeg)
+#### Prototipo de alta fidelidad
+Vista 1
+![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/v1.png)
+Vista 2
+![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/v2.png)
+
+
+[Enc]: https://forms.gle/viuLJijVDd24ctQz6 "Encuesta"
