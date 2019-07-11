@@ -47,16 +47,19 @@ Se propone una división de pantalla en la que del lado izquierdo se puede ver l
 Del lado derecho de la pantalla muestra un menú con las imágenes de las películas que contienen las descripción de los valores éticos que se presentan en cada película
 
 Vista 1
-![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/p1.jpeg)
+![imagen](/Imágenes/p1.jpeg)
 
 La segunda vista mantiene el lado izquierdo con la descripción, y el lado derecho se representa la reseña de la película a la cual fue dado el "click".
 Vista 2
-![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/p2.jpeg)
+![imagen](/Imágenes/p2.jpeg)
 #### Prototipo de alta fidelidad
+[[Proto]][Pro]
+
 Vista 1
-![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/v1.png)
+![imagen](/Imágenes/v1.png)
 Vista 2
-![imagen](/home/laboratoria-184/Documentos/Laboratoria/GDL003-movie-challenge/Imágenes/v2.png)
+![imagen](/Imágenes/v2.png)
 
-
+[[Encuesta]][Enc]
 [Enc]: https://forms.gle/viuLJijVDd24ctQz6 "Encuesta"
+[Pro]: https://marvelapp.com/948d9id/screen/59161779 "Proto"
