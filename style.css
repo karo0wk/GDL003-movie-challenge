@@ -1,0 +1,12 @@
+.studios_ghibli {
+    background-image: url("https://66.media.tumblr.com/5474d821c8649d1f7842085507033cd0/tumblr_mgwtzd9lHs1qd29o8o1_500.gif");
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    align-self: initial;
+    position: absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+}
